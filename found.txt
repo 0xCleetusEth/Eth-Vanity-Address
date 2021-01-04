@@ -1,4 +1,4 @@
-# Addresses will be outputted here :: do not use the sample address - the script will indent and continue to add into the file 
+# Addresses will be dropped here :: do not use the sample address - the script will index, space, and continue to add into the file 
 without overwriting. If you would like to save an address from getting locked into the mix, feel free to securely move the 
 information into the */addrgen/save.txt file.
 
