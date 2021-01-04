@@ -1,0 +1,8 @@
+{
+    "python.venvFolders": [
+        "~/virtualenv",
+        "virtualenv",
+        "~/Envs"
+    ],
+    "python.pythonPath": "virtualenv\\Scripts\\Python.exe",
+}
