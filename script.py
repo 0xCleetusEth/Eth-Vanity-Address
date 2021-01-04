@@ -1,10 +1,9 @@
-from datetime import datetime
+import txt_interfacing
 from secrets import token_bytes
-
 from coincurve import PublicKey
 from sha3 import keccak_256
+from datetime import datetime
 
-import txt_interfacing
 
 input_strs = []
 with open('.\\txt_interfacing\\search.txt', 'r') as f:
