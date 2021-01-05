@@ -8,3 +8,5 @@ information into the */addrgen/save.txt file.
  eth addr: 0x111136f27241334a033b6f8ee392ca5ed575a570
  with pvtkey: 65c46a1c8c9a732f7f20b50c3c3b210962c267f9d9b4cdc5c05c1ef3b49b7e43
 
+ eth addr: 0xdead883bdd88d9527191463aac11eabdffbea0c4
+ with pvtkey: 58ceef9a38c92281ad3a91cfcdba3f1186bcacd05dab046c42e23dc94d9671f7
